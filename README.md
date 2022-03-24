@@ -1,7 +1,9 @@
 <h1 align="center">Hi ! I'm Martin d'Hérouville</h1>
 <h3 align="center">Epitech student at Mulhouse</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazettt" alt="mazettt" /></a> </p>
+<div style="position:relative;height:110px;overflow:hidden">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="position:relative" src="https://github-profile-trophy.vercel.app/?username=mazettt" alt="mazettt" /></a> </p>
+</div>
 
 - 🧑🏻‍🎓 I’m currently learning **Programming at Epitech Mulhouse**
 
