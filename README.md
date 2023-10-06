@@ -40,6 +40,7 @@
 </div>
 
 ## My stats
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazettt&show_icons=true&title_color=0000ff&bg_color=ffffff&locale=en&layout=compact" alt="mazettt" /></div>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mazettt&show_icons=true&title_color=0000ff&text_color=000000&bg_color=ffffff&locale=en" alt="mazettt" /></div>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazettt&theme=default" alt="mazettt" /></div>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazettt&show_icons=true&title_color=0000ff&bg_color=ffffff&locale=en&layout=compact" alt="Mazettt" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazettt&show_icons=true&title_color=0000ff&text_color=000000&bg_color=ffffff&locale=en" alt="Mazettt" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mazettt&theme=default" alt="Mazettt" /></div>
