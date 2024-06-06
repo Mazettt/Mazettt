@@ -9,7 +9,7 @@
 - 📫 How to reach me:
   - Pro email: **martin.d-herouville@epitech.eu**
   - Discord: **@mazettt**
-- 📄 Connect with me on **[linkedin](https://linkedin.com/in/martin-dherouville/)**
+  - Linkedin: **[martin-dherouville](https://linkedin.com/in/martin-dherouville/)**
 
 ## Languages and Tools:
 
