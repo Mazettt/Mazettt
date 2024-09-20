@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="position:relative" src="https://github-profile-trophy.vercel.app/?username=mazettt" alt="mazettt" /></a> </p> -->
 
-- 🔭 I'm currently working on **[EpitechMouliBot](https://github.com/EpitechMouliBot)**
+- 🔭 I'm currently working on **[ScoutFlow](https://github.com/mazettt/ScoutFlow)**
 - 🌱 I'm currently learning **Programming at Epitech Mulhouse**
 - 👨‍💻 All of my projects are available **[here](https://github.com/Mazettt?tab=repositories)**
 - 📫 How to reach me:
